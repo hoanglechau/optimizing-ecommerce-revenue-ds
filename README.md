@@ -1,6 +1,6 @@
 # **Data Science Project:** Optimizing E-Commerce Revenue - Classification and Clustering Insights
 
-## **Author**: Hoang Le Chau, Bao Khac Nguyen, and Nguyen Dinh Dang Nguyen
+## **Authors**: Hoang Le Chau, Bao Khac Nguyen, and Nguyen Dinh Dang Nguyen
 
 ### Dataset Information
 Online Shoppers’ Intention Dataset (Sakar et al., 2019).
